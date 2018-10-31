@@ -3,7 +3,7 @@
 """
 Created on Mon Oct 29 11:38:24 2018
 
-@author: iteis
+@author: Amelie Motteau
 """
 import csv
 import psycopg2
